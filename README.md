@@ -11,3 +11,4 @@ This repo contains two components of Pusheenbot:
 * Simple sentiment analysis for unrecognised words
 * Include more food stickers 
 * Include other Pusheens (from webcomic, LINE, etc)
+# TADA
