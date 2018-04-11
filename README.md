@@ -12,3 +12,4 @@ This repo contains two components of Pusheenbot:
 * Include more food stickers 
 * Include other Pusheens (from webcomic, LINE, etc)
 # TADA
+# new stuff
